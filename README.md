@@ -18,15 +18,13 @@ This repository based on [@Antropocosmist Public Github](https://github.com/Antr
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $ROWAN to https://t.me/SputnikPriceBot without any support
 - We added $ROWAN to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $ROWAN in Twitter and Telegram, and also p2p-exchange $ROWAN directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1417965745179353091)
 
-- Relayers. Now we have several relayers which working in two directions (to rowan and out) 
-Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th
-Networks Connected :
+- Relayers. Now we have several relayers which working in two directions (to rowan and out)<br/>
+Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th <br/> Networks Connected :
 * juno
 * omniflix
 * osmosis <br/>
 ![photo_2022-05-30_12-33-33 (2)](https://user-images.githubusercontent.com/92199696/170964034-48658d45-a0b3-41ed-b939-826bf1f7c4a5.jpg)<br/>
-
--In the near future:
+- In the near future:
 We will create public node for RPC/GRPC/REST
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
@@ -85,6 +83,21 @@ Videos (We mentioned SifChain in our videos)
 - We always write about SifChain at [Twitter](https://twitter.com/ponimajushij),[Twitter 2](https://twitter.com/ZametkiHodlera)
 - We creating content on https://twitter.com/CosmosEcosystem and always make reposts of SifChain news
 - We write about SifChain at [my blog on Medium](https://medium.com/@antropocosmist)
+- We have [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School/blob/main/README.md) where we explaining for non-tech and tech people how to validate networks with humanitarian and technical lessons. <br/>
+
+Our graduates now validating SifChain:<br/>
+1. https://www.mintscan.io/sifchain/validators/sifvaloper193j334qglh6jgkrz8eseq2gd5453rp47utd0sg <br/>
+
+2. https://www.mintscan.io/sifchain/validators/sifvaloper1tvy5apxqsf3jf0uhzknvj6qndy473smzjezvh9 <br/>
+
+3. https://www.mintscan.io/sifchain/validators/sifvaloper1yxrxewndap7pkf75ucua7jgvg8e54kvmhnuj72 <br/>
+
+4. https://www.mintscan.io/sifchain/validators/sifvaloper1j64nlm43umrrv62krql2ek48dfdjkh38s07e3e <br/>
+
+5. https://www.mintscan.io/sifchain/validators/sifvaloper156cvgn9glppsjhmlt3rel8h0j070zpp38rua3v <br/>
+
+And there will be more! <br/>
+
 - Vladimir Ponimajushij participating in different crypto-conferences as a speaker. For example, He was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from his speech](https://youtu.be/Z_crcY4NGA4), and he spoke about SifChain and Cosmos Ecosystem a lot!
 Here is the translation of my [presentation for CoInvest Conferense in English](https://docs.google.com/presentation/d/1TORtgZVS6rGtHNBOgGe-SGFGHiJc6M3zkB2IQtZ9M4s/edit?usp=sharing) 
 And here is a [presentation in Russian](https://docs.google.com/presentation/d/1Hlh5lPUhM1EK-dV5vmkjQi4PYUbJc9bidaDEtG22M7A/edit?usp=sharing)
