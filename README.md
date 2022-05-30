@@ -23,10 +23,11 @@ Relayer Service Address: sif1t9nrmmcrg5vvw2wc3vez0xdsqv7etu7d79g2th
 Networks Connected :
 * juno
 * omniflix
-* osmosis
-* chihuahua <br/>
+* osmosis <br/>
 ![photo_2022-05-30_12-33-33 (2)](https://user-images.githubusercontent.com/92199696/170964034-48658d45-a0b3-41ed-b939-826bf1f7c4a5.jpg)<br/>
 
+-In the near future:
+We will create public node for RPC/GRPC/REST
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
 ## Twitter <br/>
