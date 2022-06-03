@@ -51,6 +51,9 @@ We have Cosmos News with SifChain mention:
 [16 APR 22](https://twitter.com/CosmosEcosystem/status/1515350581963018251),
 [6 MAY 22](https://twitter.com/CosmosEcosystem/status/1522652655990063106),
 [13 MAY 22](https://twitter.com/CosmosEcosystem/status/1525170815385452544)<br/>
+[03 JUNE 22](https://twitter.com/CosmosEcosystem/status/1532711849677963269)</br>
+![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
+
 
 ![image](https://user-images.githubusercontent.com/92199696/170959014-129ccfa4-70ac-4a0b-b0cc-5f3cee7bf399.png)<br/>
 
@@ -117,3 +120,4 @@ In this videos PostHuman validator represented by Vladimir Ponimajushij and Vale
 - [Cosmos Talks 7](https://www.youtube.com/watch?v=vjUvzYJrw3k)
 - [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
 - [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
+- [Cosmos Talks 10](https://youtu.be/sLqmZqONxcY?t=2493) 
