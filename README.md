@@ -33,7 +33,7 @@ We will create public node for RPC/GRPC/REST
 
 - We've created a brand new SifChain Weekly Infographics! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/171229504-f8d3c591-785f-4a76-b6c2-ce74a8f06ed4.png)<br/>
-[31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234), [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730) <br/>
+[31 MAY 22](https://twitter.com/CosmosEcosystem/status/1531677784103391234), [7 JUNE 22](https://twitter.com/CosmosEcosystem/status/1534248844988489730),[14 JUNE 22] (https://twitter.com/CosmosEcosystem/status/1536759530113089536) <br/>
 
 We're mentioned Sifchain and $ROWAN in our Twitter Profiles and on [Cosmos Ecosystem Twitter](https://twitter.com/CosmosEcosystem). <br/>
 We have Cosmos News with SifChain mention:
