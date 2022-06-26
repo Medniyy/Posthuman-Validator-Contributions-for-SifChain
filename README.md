@@ -55,6 +55,9 @@ We have Cosmos News with SifChain mention:
 [10 JUNE 22](https://twitter.com/CosmosEcosystem/status/1535327674285056004)
 [18 JUNE 22](https://twitter.com/CosmosEcosystem/status/1538182138813718528)</br>
 ![Sifc](https://user-images.githubusercontent.com/92199696/171862762-32024354-8b6b-4086-ba78-2583ff8c8d8a.jpg)<br/>
+[26 JUNE 22 SIFCHAIN RECAP MID JUNE GRAPHICS](https://twitter.com/CosmosEcosystem/status/1541055688016797697) <br/>
+![image](https://user-images.githubusercontent.com/92199696/175817738-d4b8e8c1-5b1d-4a3d-ab79-cb5f0cc80557.png)<br/>
+
 
 
 ![image](https://user-images.githubusercontent.com/92199696/170959014-129ccfa4-70ac-4a0b-b0cc-5f3cee7bf399.png)<br/>
